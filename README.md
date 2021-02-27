@@ -1,6 +1,8 @@
 # Introduction
 Vue-Laravel fullstack app for test assignment at Foach Company. Follows Materials Design styling with Vuetify (https://vuetifyjs.com/en/)
-Live Demo is deployed on heroku: https://foach.herokuapp.com
+
+## Live Demo 
+deployed on heroku: https://foach.herokuapp.com
 
 ## Installation
 1. git clone this repository
