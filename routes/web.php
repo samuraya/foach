@@ -15,4 +15,4 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', 'RegisterController@index')->name('register-page');
 Route::post('/register', 'RegisterController@register')->name('register');
 Route::get('/employees', 'EmployeeController@listEmployees')->name('list-employees');
-Route::post('/vacation', 'EmployeeController@switchVacation')->name('list-employees');
+Route::post('/vacation', 'EmployeeController@switchVacation')->name('vacation');
